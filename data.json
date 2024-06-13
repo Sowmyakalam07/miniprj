@@ -1,0 +1,802 @@
+[
+    { 
+        "p_id": 1,
+        "p_name": "Samsung_galaxy_note10+",
+        "p_cost": 48999,
+        "p_cat": "Mobiles",
+        "p_desc": "Samsung Galaxy Note10+ (Aura Black, 12GB RAM, 256GB Storage)",
+        "p_img": "https://m.media-amazon.com/images/I/71QIWoR7EZL._SL1500_.jpg"
+    },
+    {
+        "p_id": 2,
+        "p_name": "OnePlus_12",
+        "p_cost": 69998,
+        "p_cat": "Mobiles",
+        "p_desc": "OnePlus 12 (Flowy Emerald, 16GB RAM, 512GB Storage)",
+        "p_img": "https://m.media-amazon.com/images/I/61BAuSC0UnL._SL1464_.jpg"
+    },
+    {
+        "p_id": 3,
+        "p_name": "Redmi_Note_13",
+        "p_cost": 16999,
+        "p_cat": "Mobiles",
+        "p_desc": "Redmi Note 13 5G (Arctic White, 6GB RAM, 128GB Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",
+        "p_img": "https://m.media-amazon.com/images/I/71VW8LmqqPL._SL1500_.jpg"
+    },
+    {
+        "p_id": 4,
+        "p_name": "iQOO Neo9 Pro",
+        "p_cost": 34999,
+        "p_cat": "Mobiles",
+        "p_desc": "iQOO Neo9 Pro 5G (Fiery Red, 8GB RAM, 128GB Storage) | Snapdragon 8 Gen 2 Processor | Supercomputing Chip Q1 | Flagship Level Sony IMX920 Camera",
+        "p_img": "https://m.media-amazon.com/images/I/718jcIFYaAL._SL1200_.jpg"
+    },
+    {
+        "p_id": 5,
+        "p_name": "vivo X Fold3 Pro",
+        "p_cost": 159999,
+        "p_cat": "Mobiles",
+        "p_desc": "vivo X Fold3 Pro 5G (Celestial Black, 16GB RAM, 512GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "p_img": "https://m.media-amazon.com/images/I/61rEc3pkrpL._SL1200_.jpg"
+    },
+    {
+        "p_id": 6,
+        "p_name": "HONOR X9b",
+        "p_cost": 22999,
+        "p_cat": "Mobiles",
+        "p_desc": "HONOR X9b 5G (Midnight Black, 8GB + 256GB) | India's First Ultra-Bounce Anti-Drop Curved AMOLED Display | 5800mAh Battery | 108MP Primary Camera | Without Charger",
+        "p_img": "https://m.media-amazon.com/images/I/71H5JOOMacL._SL1500_.jpg"
+    },
+    {
+        "p_id": 7,
+        "p_name": "realme NARZO 70x",
+        "p_cost": 14999,
+        "p_cat": "Mobiles",
+        "p_desc": "realme NARZO 70x 5G (Ice Blue, 8GB RAM,128GB Storage)|120Hz Ultra Smooth Display|Dimensity 6100+ 6nm 5G|50MP AI Camera|45W Charger in The Box",
+        "p_img": "https://m.media-amazon.com/images/I/71PedC9OtzL._SL1500_.jpg"
+    },
+    {
+        "p_id": 8,
+        "p_name": "TECNO CAMON 30",
+        "p_cost": 22999,
+        "p_cat": "Mobiles",
+        "p_desc": "TECNO CAMON 30 5G (16GB*+256GB) | 100MP OIS Mode + 50MP Auto Focus Selfie | 6.78 inch LTPS AMOLED Display | MediaTek Dimensity 7020 | 5000mAh Battery & 33W Charger | Uyuni Salt White",
+        "p_img": "https://m.media-amazon.com/images/I/61mltrVwlgL._SL1280_.jpg"
+    },
+    {
+        "p_id": 9,
+        "p_name": "Apple iPhone 15",
+        "p_cost": 73100,
+        "p_cat": "Mobiles",
+        "p_desc": "Apple iPhone 15 (128 GB) - Black",
+        "p_img": "https://m.media-amazon.com/images/I/71657TiFeHL._SL1500_.jpg"
+    },
+    {
+        "p_id": 10,
+        "p_name": "Lava O2",
+        "p_cost": 7999,
+        "p_cat": "Mobiles",
+        "p_desc": "Lava O2 (Majestic Purple, 8GB RAM, UFS 2.2 128GB Storage) |AG Glass Back|T616 Octacore Processor|18W Fast Charging|6.5 inch 90Hz Punch Hole Display|50MP AI Dual Camera|Upto 16GB Expandable RAM",
+        "p_img": "https://m.media-amazon.com/images/I/514Czgj0RsL._SL1080_.jpg"
+    },
+    {
+        "p_id": 11,
+        "p_name": "Apple 2023 MacBook Pro",
+        "p_cost": 379990,
+        "p_cat": "Laptops",
+        "p_desc": "Apple 2023 MacBook Pro (16-inch, M3 Max chip with 16‑core CPU and 40‑core GPU, 48GB Unified Memory, 1TB) - Space Black",
+        "p_img": "https://m.media-amazon.com/images/I/618d5bS2lUL._SL1500_.jpg"
+    },
+    {
+        "p_id": 12,
+        "p_name": "Acer Aspire Lite AMD Ryzen 5 5500U",
+        "p_cost": 35999,
+        "p_cat": "Laptops",
+        "p_desc": "Acer Aspire Lite AMD Ryzen 5 5500U Premium Thin and Light Laptop (16 GB RAM/512 GB SSD/Windows 11 Home) AL15-41, 39.62 cm (15.6 inch) Full HD Display, Metal Body, Steel Gray, 1.59 KG Premium Thin and Light Laptop (16 GB RAM/512 GB SSD/Windows 11 Home) AL15-41, 39.62 cm (15.6 inch) Full HD Display, Metal Body, Steel Gray, 1.59 KG",
+        "p_img":"https://m.media-amazon.com/images/I/71czGb00k5L._SL1500_.jpg"
+    },
+    {
+        "p_id": 13,
+        "p_name": "ASUS Vivobook Go 14",
+        "p_cost": 22990,
+        "p_cat": "Laptops",
+        "p_desc": "ASUS Vivobook Go 14 (2023), 14inch (35.56 cm) FHD (1920 x 1080) 16:9, Intel Celeron N4500, Thin and Light Laptop (8GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Black/1.3 Kg), E410KA-EK013W",
+        "p_img": "https://m.media-amazon.com/images/I/71mQMASiF7L._SL1500_.jpg"
+    },
+    {
+        "p_id": 14,
+        "p_name": "Dell 14",
+        "p_cost": 34990,
+        "p_cat": "Laptops",
+        "p_desc": "Dell 14 Thin & Light Laptop, 12th Gen Intel Core i3-1215U Processor/8GB/512GB SSD/Intel UHD Graphics/14.0inch(35.56cm) FHD/Windows 11 + MSO'21/15 Month McAfee/Spill-Resistant Keyboard/Grey/1.48kg",
+        "p_img": "https://m.media-amazon.com/images/I/71tSrDl1TaL._SL1500_.jpg"
+    },
+    {
+        "p_id": 15,
+        "p_name": "HP Laptop 15s",
+        "p_cost": 38490,
+        "p_cat": "Laptops",
+        "p_desc": "HP Laptop 15s, 12th Gen Intel Core i3, 15.6-inch (39.6 cm), 8GB DDR4, 512GB SSD, Thin & Light, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), fq5007TU / FQ5327TU",
+        "p_img": "https://m.media-amazon.com/images/I/71oQh8WFlyL._SL1500_.jpg"
+    },
+    {
+        "p_id": 16,
+        "p_name": "HONOR MagicBook X16 Pro",
+        "p_cost": 55990,
+        "p_cat": "Laptops",
+        "p_desc": "HONOR MagicBook X16 Pro 2024, 13th Gen Intel Core i5-13420H (16GB/512GB NVMe SSD, 16-inch (40.64 cm) FHD IPS Anti-Glare Thin and Light Laptop/Windows 11/Backlit Keyboard/Fingerprint/1.75Kg), Gray",
+        "p_img": "https://m.media-amazon.com/images/I/61v6prN3QrL._SL1500_.jpg"
+    },
+    {
+        "p_id": 17,
+        "p_name": "Lenovo IdeaPad",
+        "p_cost": 34999,
+        "p_cat": "Laptops",
+        "p_desc": "Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 15.6inch (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/1Yr ADP Free/3months Game Pass/Arctic Grey/1.63Kg), 82RK00VTIN",
+        "p_img": "https://m.media-amazon.com/images/I/81+SKGgJ9yL._SL1500_.jpg"
+    },
+    {
+        "p_id": 18,
+        "p_name": "Chuwi HeroBook Pro 14.1",
+        "p_cost": 16490,
+        "p_cat": "Laptops",
+        "p_desc": "Chuwi HeroBook Pro 14.1'' Intel Celeron N4020 Laptop with 8GB RAM, 256GB SSD, Windows 11, 1TB Expand, FHD IPS, Ultra Slim, USB3.0, Mini-HDMI, Webcam",
+        "p_img": "https://m.media-amazon.com/images/I/61H76AyN6pL._SL1500_.jpg"
+    },
+    {
+        "p_id": 19,
+        "p_name": "ZEBRONICS PRO Series Z NBC 3S",
+        "p_cost": 25990,
+        "p_cat": "Laptops",
+        "p_desc": "ZEBRONICS PRO Series Z NBC 3S, Intel Core 12th Gen i3 Processor 8GB RAM & 512GB SSD Laptop, 15.6 Inch (39.6CM), IPS 180° Display, Dolby Atmos, 38.5Wh Large Battery, Windows 11, Space Grey, 1.76 Kg",
+        "p_img": "https://m.media-amazon.com/images/I/71R0EAl5-JL._SL1500_.jpg"
+    },
+    {
+        "p_id": 20,
+        "p_name": "HP Chromebook 13 G1",
+        "p_cost": 12999,
+        "p_cat": "Laptops",
+        "p_desc": "(Refurbished) HP Chromebook 13 G1 6th Gen Intel Core m5 FHD Thin & Light Laptop (8 GB RAM| 32 GB eMMC Storage| 13.3inch (33.8 cm) FHD| Chrome OS| WiFi| Bluetooth| Webcam| Intel Graphics)",
+        "p_img": "https://m.media-amazon.com/images/I/51B-iAjx5zL._SL1300_.jpg"
+    },
+    {
+        "p_id":21,
+        "p_name":"Fire-Boltt Ninja Call Pro Plus",
+        "p_cost":1299,
+        "p_cat": "Smart Watches",
+        "p_desc":"Fire-Boltt Ninja Call Pro Plus 1.83inch Smart Watch with Bluetooth Calling, AI Voice Assistance, 100 Sports Modes IP67 Rating, 240 * 280 Pixel High Resolution (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/61AHiYyu3ZL._SL1500_.jpg"
+    },
+    {
+        "p_id":22,
+        "p_name":"boAt Xtend",
+        "p_cost":999,
+        "p_cat": "Smart Watches",
+        "p_desc":"boAt Xtend Smart Watch with Alexa Built-in, 1.69” HD Display, Multiple Watch Faces, Stress Monitor, Heart & SpO2 Monitoring, 14 Sports Modes, Sleep Monitor, 5 ATM & 7 Days Battery(Pitch Black)",
+        "p_img":"https://m.media-amazon.com/images/I/61IMRs+o0iL._SL1500_.jpg"
+    },
+    {
+        "p_id":23,
+        "p_name":"Noise Twist Go",
+        "p_cost":1799,
+        "p_cat": "Smart Watches",
+        "p_desc":"Noise Twist Go Round dial Smartwatch with BT Calling, 1.39inch Display, Metal Build, 100+ Watch Faces, IP68, Sleep Tracking, 100+ Sports Modes, 24/7 Heart Rate Monitoring (Elite Black)",
+        "p_img":"https://m.media-amazon.com/images/I/61q0ZgCYoJL._SL1500_.jpg"
+    },
+    {
+        "p_id":24,
+        "p_name":"Fastrack",
+        "p_cost":1199,
+        "p_cat": "Smart Watches",
+        "p_desc":"Fastrack New Limitless X2 Smartwatch|1.91inch UltraVU with Rotating Crown|60 Hz Refresh Rate|Advanced Chipset|SingleSync BT Calling|NitroFast Charge|100+ Sports Mode & Watchfaces|Upto 5 Day Battery|IP68",
+        "p_img":"https://m.media-amazon.com/images/I/71kxX+vFv+L._SL1500_.jpg"
+    },
+    {
+        "p_id":25,
+        "p_name":"Like Star® T800",
+        "p_cost":649,
+        "p_cat": "Smart Watches",
+        "p_desc":"Like Star® T800 Ultra Smart Watch with Beautiful Strap, Bluetooth Calling Smart Watch, 1.99inch Touch Display with Fitness & Outdoor, Health & Medical Tracker, 8 Unique UI Interactions (Orange)",
+        "p_img":"https://m.media-amazon.com/images/I/71sTiE4Q3TL._SL1500_.jpg"
+    },
+    {
+        "p_id":26,
+        "p_name":"beatXP Flare Pro",
+        "p_cost":899,
+        "p_cat": "Smart Watches",
+        "p_desc":"beatXP Flare Pro 1.39” HD Display Bluetooth Calling Smart Watch, 100+ Sports Modes, Heart Rate Monitoring, SpO2, AI Voice Assistant, IP68 - Black",
+        "p_img":"https://m.media-amazon.com/images/I/61MnrUAKACL._SL1500_.jpg"
+    },
+    {
+        "p_id":27,
+        "p_name":"Samsung Galaxy Fit3",
+        "p_cost":4899,
+        "p_cat": "Smart Watches",
+        "p_desc":"Samsung Galaxy Fit3 (Gray), 40mm AMOLED Display with Aluminium Body, Comprehensive Fitness and Health Tracking, Upto 13-Day Battery with Fast Charging, 5ATM & IP68 Rating",
+        "p_img":"https://m.media-amazon.com/images/I/61sSwX2mo+L._SL1500_.jpg"
+    },
+    {
+        "p_id":28,
+        "p_name":"Fire-Boltt Ninja 3 Plus",
+        "p_cost":999,
+        "p_cat": "Smart Watches",
+        "p_desc":"Fire-Boltt Ninja 3 Plus 1.83inch Display Smartwatch Full Touch with 100+ Sports Modes with IP68, Sp02 Tracking, Over 100 Cloud Based Watch Faces (Beige)",
+        "p_img":"https://m.media-amazon.com/images/I/61+8syDuv4L._SL1500_.jpg"
+    },
+    {
+        "p_id":29,
+        "p_name":"boAt Wave Style",
+        "p_cost":1099,
+        "p_cat": "Smart Watches",
+        "p_desc":"boAt Wave Style Call Smart Watch with Advanced BT Calling Chip,DIY Watch Face Studio, Coins, 1.69inch HD Display, Health Ecosystem, Live Cricket Scores, Quick Replies, HR & SpO2(Active Black)",
+        "p_img":"https://m.media-amazon.com/images/I/61YTjbpBTTL._SL1500_.jpg"
+    },
+    {
+        "p_id":30,
+        "p_name":"Apple Watch Series 9",
+        "p_cost":39499,
+        "p_cat": "Smart Watches",
+        "p_desc":"Apple Watch Series 9 [GPS 41mm] Smartwatch with Starlight Aluminum Case with Starlight Sport Band S/M. Fitness Tracker, Blood Oxygen & ECG Apps, Always-On Retina Display, Water Resistant",
+        "p_img":"https://m.media-amazon.com/images/I/61ulJeD5wVL._SL1500_.jpg"
+    },
+    {
+        "p_id":31,
+        "p_name":"boAt Rockerz 450",
+        "p_cost":1999,
+        "p_cat": "Head Phones",
+        "p_desc":"boAt Rockerz 450 Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback, 40MM Drivers, Padded Ear Cushions, Integrated Controls and Dual Modes(Luscious Black)",
+        "p_img":"https://m.media-amazon.com/images/I/51xxA+6E+xL._SL1500_.jpg"
+    },
+    {
+        "p_id":32,
+        "p_name":"Boult Audio Z40",
+        "p_cost":999,
+        "p_cat": "Head Phones",
+        "p_desc":"Boult Audio Z40 True Wireless in Ear Earbuds with 60H Playtime, Zen™ ENC Mic, Low Latency Gaming, Type-C Fast Charging, Made in India, 10mm Rich Bass Drivers, IPX5, Bluetooth 5.3 Ear Buds TWS (Blue)",
+        "p_img":"https://m.media-amazon.com/images/I/71ITkeoYiTL._SL1500_.jpg"
+    },
+    {
+        "p_id":33,
+        "p_name":"URBN Beat 700 ANC",
+        "p_cost":1299,
+        "p_cat": "Head Phones",
+        "p_desc":"URBN Beat 700 ANC Bluetooth *Newly Launched* True Wireless (TWS) in Earbuds with 12MM Driver, Hybrid ENC Quad Mic, 60H Playtime, Gaming Mode, IPX5, Touch Controls & App Support (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/616tct4AfwL._SL1500_.jpg"
+    },
+    {
+        "p_id":34,
+        "p_name":"Noise Buds VS104",
+        "p_cost":799,
+        "p_cat": "Head Phones",
+        "p_desc":"Noise Buds VS104 Truly Wireless Earbuds with 45H of Playtime, Quad Mic with ENC, Instacharge(10 min=200 min), 13mm Driver,Low Latency, BT v5.2 (Charcoal Black)",
+        "p_img":"https://m.media-amazon.com/images/I/614hH1Cot3L._SL1500_.jpg"
+    },
+    {
+        "p_id":35,
+        "p_name":"Redmi Buds 4 ",
+        "p_cost":1399,
+        "p_cat": "Head Phones",
+        "p_desc":"Redmi Buds 4 Active - Bass Black, 12mm Drivers(Premium Sound Quality), Up to 30 Hours Battery Life, Google Fast Pair, IPX4, Bluetooth 5.3, ENC, Up to 60ms Low Latency Mode, App Support",
+        "p_img":"https://m.media-amazon.com/images/I/61dgg4KIRzL._SL1500_.jpg"
+    },
+    {
+        "p_id":36,
+        "p_name":"Sony WH-CH520",
+        "p_cost":4490,
+        "p_cat": "Head Phones",
+        "p_desc":"Sony WH-CH520, Wireless On-Ear Bluetooth Headphones with Mic, Upto 50 Hours Playtime, DSEE Upscale, Multipoint Connectivity/Dual Pairing,Voice Assistant App Support for Mobile Phones (Blue)",
+        "p_img":"https://m.media-amazon.com/images/I/41JACWT-wWL._SL1200_.jpg"
+    },
+    {
+        "p_id":37,
+        "p_name":"Samsung Galaxy Buds2 Pro",
+        "p_cost":10949,
+        "p_cat": "Head Phones",
+        "p_desc":"Samsung Galaxy Buds2 Pro, with Innovative AI Features, Bluetooth Truly Wireless in Ear Earbuds with Noise Cancellation (Graphite)",
+        "p_img":"https://m.media-amazon.com/images/I/61Qqg+T8nsL._SL1500_.jpg"
+    },
+    {
+        "p_id":38,
+        "p_name":"JBL Tune 770NC",
+        "p_cost":5999,
+        "p_cat": "Head Phones",
+        "p_desc":"JBL Tune 770NC Wireless Over Ear ANC Headphones with Mic, Upto 70 Hrs Playtime, Speedcharge, Google Fast Pair, Dual Pairing, BT 5.3 LE Audio, Customize on Headphones App (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/51C-mCenqeL._SL1500_.jpg"
+    },
+    {
+        "p_id":39,
+        "p_name":"ZEBRONICS THUNDER",
+        "p_cost":799,
+        "p_cat": "Head Phones",
+        "p_desc":"ZEBRONICS THUNDER Bluetooth 5.3 Wireless Headphones with 60H Backup, Gaming Mode, Dual Pairing, ENC, AUX, Micro SD, Voice assistant, Comfortable Earcups, Call Function(Black)",
+        "p_img":"https://m.media-amazon.com/images/I/61s-3q6CYxL._SL1500_.jpg"
+    },
+    {
+        "p_id":40,
+        "p_name":"pTron Bassbuds",
+        "p_cost":698,
+        "p_cat": "Head Phones",
+        "p_desc":"pTron Bassbuds Duo in-Ear Bluetooth 5.1 Wireless Headphones, Stereo Audio, Touch Control TWS Earbuds with HD Mic, Type-C Fast Charging, IPX4 Water Resistant & Voice Assistance",
+        "p_img":"https://m.media-amazon.com/images/I/51Q3PHZCWXL._SL1100_.jpg"
+    },
+    {
+        "p_id":41,
+        "p_name":"Sony Alpha ZV-E10L",
+        "p_cost":61489,
+        "p_cat": "Cameras",
+        "p_desc":"Sony Alpha ZV-E10L 24.2 Mega Pixel Interchangeable-Lens Mirrorless vlog Optical zoom Camera with 16-50mm Lens,for Creators(APS-C Sensor,Advanced Autofocus,Clear Audio,4K Movie Recording)-Black,Compact",
+        "p_img":"https://m.media-amazon.com/images/I/71VyobEAZhL._SL1500_.jpg"
+    },
+    {
+        "p_id":42,
+        "p_name":"Canon EOS R50",
+        "p_cost":70990,
+        "p_cat": "Cameras",
+        "p_desc":"Canon EOS R50 RF-S18-45mm f/4.5-6.3 is STM Mirrorless Camera (Black)- 4K Video Vlogging with 24.2 MP",
+        "p_img":"https://m.media-amazon.com/images/I/81LskAU5h1L._SL1500_.jpg"
+    },
+    {
+        "p_id":43,
+        "p_name":"Fujifilm Instax Mini Evo",
+        "p_cost":18999,
+        "p_cat": "Cameras",
+        "p_desc":"Fujifilm Instax Mini Evo Hybrid Camera Premium Edition with 20 Shots of Stone Gray Film and 100 Different Expressions-(Black)",
+        "p_img":"https://m.media-amazon.com/images/I/61tSR9mjE+L._SL1080_.jpg"
+    },
+    {
+        "p_id":44,
+        "p_name":"GoPro HERO11",
+        "p_cost":40490,
+        "p_cat": "Cameras",
+        "p_desc":"GoPro HERO11 Waterproof Action Camera with Shorty-Mini Extension Pole & Battery | Front & Rear LCD Screen, 5.3K60 Ultra HD Video, HyperSmooth, Live Streaming (1-Yr International + 1-Yr India Warranty)",
+        "p_img":"https://m.media-amazon.com/images/I/618uI0L17wL._SL1500_.jpg"
+    },
+    {
+        "p_id":45,
+        "p_name":"Sony Digital Camera ZV-1M2",
+        "p_cost":79990,
+        "p_cat": "Cameras",
+        "p_desc":"Sony Digital Camera ZV-1M2 for Content Creators with 18-50mm Wide-Angle Zoom Lens | Compact Camera with Strong Image Stabilisation | Accurate Autofocus | Cinematic Vlog Setting - Black",
+        "p_img":"https://m.media-amazon.com/images/I/71objElKGDL._SL1500_.jpg"
+    },
+    {
+        "p_id":46,
+        "p_name":"Sony Alpha ILCE-7CM2 Full-Frame",
+        "p_cost":188990,
+        "p_cat": "Cameras",
+        "p_desc":"Sony Alpha ILCE-7CM2 Full-Frame Interchangeable-Lens Mirrorless vlog Camera (Body Only) | Made for Creators | 33.0 MP | Artificial Intelligence Based Autofocus | 4K 60p Recording - Black",
+        "p_img":"https://m.media-amazon.com/images/I/711TrnJYkFL._SL1500_.jpg"
+    },
+    {
+        "p_id":47,
+        "p_name":"Sony Premium Compact DSC-RX100M5A",
+        "p_cost":75990,
+        "p_cat": "Cameras",
+        "p_desc":"Sony Premium Compact DSC-RX100M5A Advanced Digital 4K Camera (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/715ypB609wL._SL1500_.jpg"
+    },
+    {
+        "p_id":48,
+        "p_name":"Sony Cinema Line FX30",
+        "p_cost":195990,
+        "p_cat": "Cameras",
+        "p_desc":"Sony Cinema Line FX30 with XLR Handle | Super 35 | 4K 120P | S-Cinetone | Dual Base ISO | Compact Camera for Filmmaking (ILME-FX30)",
+        "p_img":"https://m.media-amazon.com/images/I/71GnJmvKhZL._SL1500_.jpg"
+    },
+    {
+        "p_id":49,
+        "p_name":"Sony Fx6 Cinema Line Full-Frame Digital Zoom Camera",
+        "p_cost":599990,
+        "p_cat": "Cameras",
+        "p_desc":"Sony Fx6 Cinema Line Full-Frame Digital Zoom Camera | 4K 120P | S-Cinetone for Cinematic Impression | Built-in Nd Filter | Made for Filmmakers (?Ilme-Fx6V) - Grey",
+        "p_img":"https://m.media-amazon.com/images/I/71LRmBwexWL._SL1500_.jpg"
+    },
+    {
+        "p_id":50,
+        "p_name":"Nikon D7500",
+        "p_cost":80990,
+        "p_cat": "Cameras",
+        "p_desc":"Nikon D7500 20.9MP Digital SLR Camera (Black) with AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR Lens",
+        "p_img":"https://m.media-amazon.com/images/I/71iKNJ6rVIL._SL1000_.jpg"
+    },
+    {
+        "p_id":51,
+        "p_name":"LG 1.5 Ton",
+        "p_cost":37690,
+        "p_cat":"ACs",
+        "p_desc":"LG 1.5 Ton 3 Star DUAL Inverter Split AC (Copper, AI Convertible 6-in-1 Cooling, 2 Way Swing, HD Filter with Anti-Virus Protection, 2024 Model, TS-Q18JNXE3, White)",
+        "p_img":"https://m.media-amazon.com/images/I/91gZQdmCiKL._SL1500_.jpg"
+    },
+    {
+        "p_id":52,
+        "p_name":"Daikin 1.5 Ton",
+        "p_cost":36990,
+        "p_cat":"ACs",
+        "p_desc":"Daikin 1.5 Ton 3 Star Inverter Split AC (Copper, PM 2.5 Filter, Triple Display, Dew Clean Technology, Coanda Airflow, 2023 Model, MTKL50U, White)",
+        "p_img":"https://m.media-amazon.com/images/I/81D+qiY3IZL._SL1500_.jpg"
+    },
+    {
+        "p_id":53,
+        "p_name":"Carrier 1.5 Ton",
+        "p_cost":34990,
+        "p_cat":"ACs",
+        "p_desc":"Carrier 1.5 Ton 3 Star AI Flexicool Inverter Split AC (Copper, Convertible 6-in-1 Cooling,High Density Filter, Auto Cleanser, 2024 Model,ESTER NEO Exi+, CAI18ER3R34F0,White)",
+        "p_img":"https://m.media-amazon.com/images/I/71vv33SLbWL._SL1500_.jpg"
+    },
+    {
+        "p_id":54,
+        "p_name":"Lloyd 1.5 Ton",
+        "p_cost":39900,
+        "p_cat":"ACs",
+        "p_desc":"Lloyd 1.5 Ton 3 Star Inverter Split AC (5 in 1 Convertible, Anti Corrosion Coating, Copper, Anti-Viral+PM 2.5 Filter, 2024 Model, White with Chrome Deco Strip, GLS18I3FOSEW)",
+        "p_img":"https://m.media-amazon.com/images/I/61NfZpQ8JtL._SL1500_.jpg"
+    },
+    {
+        "p_id":55,
+        "p_name":"Blue Star 1.5 Ton",
+        "p_cost":35990,
+        "p_cat":"ACs",
+        "p_desc":"Blue Star 1.5 Ton 3 Star Inverter Split AC (Copper, Smart Ready, 5 in 1 Convertible, Turbo Cool, ID318YKU, 2023 Model, White)",
+        "p_img":"https://m.media-amazon.com/images/I/61nF5ekaaPL._SL1500_.jpg"
+    },
+    {
+        "p_id":56,
+        "p_name":"Panasonic 1.5 Ton",
+        "p_cost":36990,
+        "p_cat":"ACs",
+        "p_desc":"Panasonic 1.5 Ton 3 Star Wi-Fi Inverter Smart Split AC (Copper Condenser, 7 in 1 Convertible with True AI Mode, PM 0.1 Air Purification Filter, CS/CU-SU18ZKYWT, 2024 Model, White)",
+        "p_img":"https://m.media-amazon.com/images/I/81wXrCl-pKL._SL1500_.jpg"
+    },
+    {
+        "p_id":57,
+        "p_name":"Voltas 1.5 ton",
+        "p_cost":33590,
+        "p_cat":"ACs",
+        "p_desc":"Voltas 1.5 ton 3 Star, Inverter Split AC (Copper, 4-in-1 Adjustable Mode, Anti-dust Filter, 2024 Model, 183V Vectra CAW, White)",
+        "p_img":"https://m.media-amazon.com/images/I/51YQcpqaqFL._SL1500_.jpg"
+    },
+    {
+        "p_id":58,
+        "p_name":"Cruise 1.5 Ton",
+        "p_cost":33490,
+        "p_cat":"ACs",
+        "p_desc":"Cruise 1.5 Ton 5 Star Inverter Split AC with 7-Stage Air Filtration (100% Copper, Convertible 4-in-1, PM 2.5 Filter, Anti-Rust Technology, 2024 Model, CWCVBK-VQ3D185, White)",
+        "p_img":"https://m.media-amazon.com/images/I/51TCxot5-WL._SL1500_.jpg"
+    },
+    {
+        "p_id":59,
+        "p_name":"Godrej 2 Ton",
+        "p_cost":40990,
+        "p_cat":"ACs",
+        "p_desc":"Godrej 2 Ton 3 Star, 5-In-1 Convertible Cooling, Inverter Split AC (Copper, I-Sense Technology, 2024 Model, AC 2T EI 24IINV3R32 WWR, White)",
+        "p_img":"https://m.media-amazon.com/images/I/51wAvdHsT0L._SL1500_.jpg"
+    },
+    {
+        "p_id":60,
+        "p_name":"Hitachi 1.5 Ton",
+        "p_cost":44000,
+        "p_cat":"ACs",
+        "p_desc":"Hitachi 1.5 Ton Class 5 Star, ice Clean, Xpandable+, Inverter Split AC with 5 Year Comprehensive Warranty* (100% Copper, Dust Filter, 2024 Model - 5400FXL RAS.G518PCBIBF, White)",
+        "p_img":"https://m.media-amazon.com/images/I/61+AmKfVuLL._SL1500_.jpg"
+    },
+    {
+        "p_id":61,
+        "p_name":"Samsung 55 inch QE1D HD QLED",
+        "p_cost":65990,
+        "p_cat":"Televisions",
+        "p_desc":"Samsung 138 cm (55 inches) QE1D Series 4K Ultra HD QLED Smart TV QA55QE1DAULXL (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/81LywCmUJhL._SL1500_.jpg"
+    },
+    {
+        "p_id":62,
+        "p_name":"SONY BRAVIA",
+        "p_cost":85990,
+        "p_cat":"Televisions",
+        "p_desc":"Sony 164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-65S25B (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/819lC-tC8iL._SL1500_.jpg"
+    },
+    {
+        "p_id":63,
+        "p_name":"LG OLED 55inch",
+        "p_cost":130499,
+        "p_cat":"Televisions",
+        "p_desc":"LG 139 cm (55 inches) 4K Ultra HD Smart OLED TV 55C2PSC (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/71D8Gt6r1iL._SL1500_.jpg"
+    },
+    {
+        "p_id":64,
+        "p_name":"Xiomi 80cm",
+        "p_cost":12999,
+        "p_cat":"Televisions",
+        "p_desc":"MI 80 cm (32 inches) A Series HD Ready Smart Google LED TV L32MA-AIN (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/81u+lUSZRDL._SL1500_.jpg"
+    },
+    {
+        "p_id":65,
+        "p_name":"Hisense",
+        "p_cost":29999,
+        "p_cat":"Televisions",
+        "p_desc":"Hisense 126 cm (50 inches) 4K Ultra HD Smart QLED TV 50E7K (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/71fs+A1rUyL._SL1500_.jpg"
+    },
+    {
+        "p_id":66,
+        "p_name":"Acer 80cm",
+        "p_cost":13999,
+        "p_cat":"Televisions",
+        "p_desc":"Acer 80 cm (32 inches) V Series HD Ready Smart QLED Google TV AR32GR2841VQD (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/71Y9lb-wnhL._SL1500_.jpg"
+    },
+    {
+        "p_id":67,
+        "p_name":"Toshiba 139 cm",
+        "p_cost":38999,
+        "p_cat":"Televisions",
+        "p_desc":"Toshiba 139 cm (55 inches) 4K Ultra HD Smart QLED TV 55C450ME (Silver)",
+        "p_img":"https://m.media-amazon.com/images/I/813dl9fPaxL._SL1500_.jpg"
+    },
+    {
+        "p_id":68,
+        "p_name":"Redmi 108 cm",
+        "p_cost":24499,
+        "p_cat":"Televisions",
+        "p_desc":"Redmi 108 cm (43 inches) 4K Ultra HD Smart LED Fire TV L43R8-FVIN (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/81sQWfxGDRL._SL1500_.jpg"
+    },
+    {
+        "p_id":69,
+        "p_name":"Vu 139 cm",
+        "p_cost":37999,
+        "p_cat":"Televisions",
+        "p_desc":"Vu 139 cm (55 inches) The GloLED Series 4K Smart LED Google TV 55GloLED (Grey)",
+        "p_img":"https://m.media-amazon.com/images/I/71ep8pVlgyL._SL1500_.jpg"
+    },
+    {
+        "p_id":70,
+        "p_name":"OnePlus 163 cm",
+        "p_cost":69999,
+        "p_cat":"Televisions",
+        "p_desc":"OnePlus 163 cm (65 inches) Q Series 4K Ultra HD QLED Smart Google TV 65 Q2 Pro (Black)",
+        "p_img":"https://m.media-amazon.com/images/I/615l0lJ7HEL._SL1500_.jpg"
+    },
+    {
+        "p_id":71,
+        "p_name":"Make Up Kit",
+        "p_cost":659,
+        "p_cat":"Beauty Products",
+        "p_desc":"Blue Heaven Festive MakeUp Kit For Women, Medium Tone Combo, Pack of 8, 32.1g+45.5ml",
+        "p_img":"https://m.media-amazon.com/images/I/61mivVIlF6L._SL1500_.jpg"
+    },
+    {
+        "p_id":72,
+        "p_name":"Cetaphil Moisturising Lotion",
+        "p_cost":1519,
+        "p_cat":"Beauty Products",
+        "p_desc":"Cetaphil Moisturising Lotion For Face & Body, Normal To Dry Skin,500 Ml",
+        "p_img":"https://m.media-amazon.com/images/I/51veXCSCAJL._SL1000_.jpg"
+    },
+    {
+        "p_id":73,
+        "p_name":"Eye Shadows",
+        "p_cost":399,
+        "p_cat":"Beauty Products",
+        "p_desc":"HUDA GIRL Beauty Rose Gold Remastered + Nude Edition Eyeshadow Palette Combo Kit - 36 Matte and Shimmer Finishes, Includes Black Eyeshadow - Complete Eye Shadow Palette Set",
+        "p_img":"https://m.media-amazon.com/images/I/81oQJwz0ZiS._SL1500_.jpg"
+    },
+    {
+        "p_id":74,
+        "p_name":"Lip Gloss",
+        "p_cost":8499,
+        "p_cat":"Beauty Products",
+        "p_desc":"M.A.C Versicolour Lip Stain FOREVER DARLING by M.A.C",
+        "p_img":"https://m.media-amazon.com/images/I/41Ra3eI7VES._SL1080_.jpg"
+    },
+    {
+        "p_id":75,
+        "p_name":"Setting spray",
+        "p_cost":217,
+        "p_cat":"Beauty Products",
+        "p_desc":"Swiss Beauty Natural Makeup Fixer | Natural Dewy Finish | With Vitamin E and Aloe Vera | Long-Lasting | Hydrating & Refreshing Setting Spray | 70 ml",
+        "p_img":"https://m.media-amazon.com/images/I/51ZtF7SAYqL._SL1500_.jpg"
+    },
+    {
+        "p_id":76,
+        "p_name":"Concealer",
+        "p_cost":3485,
+        "p_cat":"Beauty Products",
+        "p_desc":"Nyx Professional Makeup Concealer Jar, Porcelain, 7.1g",
+        "p_img":"https://m.media-amazon.com/images/I/5138-E6khBL._SL1000_.jpg"
+    },
+    {
+        "p_id":77,
+        "p_name":"Foundation",
+        "p_cost":16499,
+        "p_cat":"Beauty Products",
+        "p_desc":"NARS Sheer Matte Foundation, Fiji, 30ml",
+        "p_img":"https://m.media-amazon.com/images/I/31Yrd+lDs4L.jpg"
+    },
+    {
+        "p_id":78,
+        "p_name":"Makeup brush",
+        "p_cost":909,
+        "p_cat":"Beauty Products",
+        "p_desc":"Swiss Beauty Professional Face & Eye Brush Set of 6 with Synthetic Fibres and Easy Blending For Cream, Liquid & Powder Formulation",
+        "p_img":"https://m.media-amazon.com/images/I/81r6KIx6YyL._SL1500_.jpg"
+    },
+    {
+        "p_id":79,
+        "p_name":"Jimmy Choo",
+        "p_cost":10500,
+        "p_cat":"Beauty Products",
+        "p_desc":"Jimmy Choo I Want Choo Edp 100 ml",
+        "p_img":"https://m.media-amazon.com/images/I/41rlBw3uJ9L._SL1000_.jpg"
+    },
+    {
+        "p_id":80,
+        "p_name":"Gucci",
+        "p_cost":11100,
+        "p_cat":"Beauty Products",
+        "p_desc":"Gucci Bamboo EDP for Women 75ml With Ayur Product in Combo",
+        "p_img":"https://m.media-amazon.com/images/I/61L9-HdiLHL._SL1000_.jpg"
+    },
+    {
+        "p_id":81,
+        "p_name":"Swarovski ",
+        "p_cost":12287,
+        "p_cat":"Fashion",
+        "p_desc":"Swarovski Women Sunglass Gradient brown Lens Color",
+        "p_img":"https://m.media-amazon.com/images/I/51bDAEpTOIL._SX679_.jpg"
+    },
+    {
+        "p_id":82,
+        "p_name":"Ray-Ban",
+        "p_cost":15630,
+        "p_cat":"Fashion",
+        "p_desc":"Ray-Ban Unisex UV Protected Green Lens Square Sunglasses - 0RB217690151",
+        "p_img":"https://m.media-amazon.com/images/I/51nfTQZwe+L._SX679_.jpg"
+    },
+    {
+        "p_id":83,
+        "p_name":"Tommy Hilfiger",
+        "p_cost":25630,
+        "p_cat":"Fashion",
+        "p_desc":"Tommy Hilfiger Ainsley II Convertible Recessed Zip Shopper Coated Square Monogram Bag",
+        "p_img":"https://m.media-amazon.com/images/I/81MASlATnLL._SY695_.jpg"
+    },
+    {
+        "p_id":84,
+        "p_name":"Michael Kors",
+        "p_cost":28270,
+        "p_cat":"Fashion",
+        "p_desc":"Michael Kors Women's Trisha Large Shoulder Bag Tote Purse Handbag (Brown)",
+        "p_img":"https://m.media-amazon.com/images/I/91fYwbOXrBL._SY695_.jpg"
+    },
+    {
+        "p_id":85,
+        "p_name":"W for Woman",
+        "p_cost":5677,
+        "p_cat":"Fashion",
+        "p_desc":"W for Woman Women's Chiffon Salwar Suit Set",
+        "p_img":"https://m.media-amazon.com/images/I/81qLV7UgmfL._SY879_.jpg"
+    },
+    {
+        "p_id":86,
+        "p_name":"Soch",
+        "p_cost":6052,
+        "p_cat":"Fashion",
+        "p_desc":"Soch Women Georgette Salwar Suit With Embroidery",
+        "p_img":"https://m.media-amazon.com/images/I/71mng+MA3IL._SY879_.jpg"
+    },
+    {
+        "p_id":87,
+        "p_name":"BIBA",
+        "p_cost":8078,
+        "p_cat":"Fashion",
+        "p_desc":"BIBA Women's Cotton Blend Suit Set",
+        "p_img":"https://m.media-amazon.com/images/I/615jnNie6ML._SX679_.jpg"
+    },
+    {
+        "p_id":88,
+        "p_name":"Miss Chase",
+        "p_cost":1899,
+        "p_cat":"Fashion",
+        "p_desc":"Miss Chase Women's Dusty Pink V-Neck Slit Sleeves Embroidered Maxi Dress",
+        "p_img":"https://m.media-amazon.com/images/I/716Dq-dqy0L._SY879_.jpg"
+    },
+    {
+        "p_id":89,
+        "p_name":"Marks & Spencer",
+        "p_cost":2799,
+        "p_cat":"Fashion",
+        "p_desc":"Marks & Spencer Pure Cotton Embroidered Round Neck Dress",
+        "p_img":"https://m.media-amazon.com/images/I/410TBzsCnrL.jpg"
+    },
+    {
+        "p_id":90,
+        "p_name":"VERO MODA",
+        "p_cost":2489,
+        "p_cat":"Fashion",
+        "p_desc":"VERO MODA Women's A-Line Dress",
+        "p_img":"https://m.media-amazon.com/images/I/71qFM7aYBwL._SY879_.jpg"
+    },
+    {
+        "p_id":91,
+        "p_name":"Swing",
+        "p_cost":39500,
+        "p_cat":"Furniture",
+        "p_desc":"Kaushalendra Sankheda 2-Seater Indoor Swing - Wooden Patio Swings For Balcony, 300Kg Capacity, Elegant Black & Golden Finish, Comfortable - 46 Inch",
+        "p_img":"https://m.media-amazon.com/images/I/91LBuKwNt5L._SL1500_.jpg"
+    },
+    {
+        "p_id":92,
+        "p_name":"Book Shelf",
+        "p_cost":3299,
+        "p_cat":"Furniture",
+        "p_desc":"ABOUT SPACE Open Book Shelf DIY Book Storage Display Rack - Wooden Multipurpose Book Storage Display Organizer Rack with Solid Finish Showcase Stand (L 47 x W 21 x H 141.2 cm)",
+        "p_img":"https://m.media-amazon.com/images/I/71TxP0ElHrL._SL1500_.jpg"
+    },
+    {
+        "p_id":93,
+        "p_name":"Mattress",
+        "p_cost":11545,
+        "p_cat":"Furniture",
+        "p_desc":"Livpure Smart Ortho Plus Memory Foam Mattress| 5D Sleep Zones Contour Foam | Stress-Relief Biocrystals| with Dow ComfortScience | Certified Fabric | King Bed (72x72x6) inches, Removal Zipper Cover",
+        "p_img":"https://m.media-amazon.com/images/I/81CSxAcjR3L._SL1500_.jpg"
+    },
+    {
+        "p_id":94,
+        "p_name":"Bean Bag",
+        "p_cost":2569,
+        "p_cat":"Furniture",
+        "p_desc":"Amazon Brand - Solimo Premium Faux Leather Bean Bag Combo with Footrest & Cushion Combo, Filled with Beans | Capacity: Upto 6 Ft 3 in Height, 120 KG Weight | 3XL | Black and Brown",
+        "p_img":"https://m.media-amazon.com/images/I/71c5HTSncXL._SL1500_.jpg"
+    },
+    {
+        "p_id":95,
+        "p_name":"Shoe Rack",
+        "p_cost":13439,
+        "p_cat":"Furniture",
+        "p_desc":"Bniture Engineered Wood Shoe Rack for Home with Metal Legs Strong, Sturdy and Stylish | Moisture & Termite Resistant (Front Size 3.2 x 4.4 Feet, Giant Wood & Frosty White) (Giant Wood & Frosty White1)",
+        "p_img":"https://m.media-amazon.com/images/I/81V5v7q7YxL._SL1500_.jpg"
+    },
+    {
+        "p_id":96,
+        "p_name":"Study Table",
+        "p_cost":6649,
+        "p_cat":"Furniture",
+        "p_desc":"DeckUp Plank Versa Engineered Wood Study Table and Office Desk (White)",
+        "p_img":"https://m.media-amazon.com/images/I/81oSiLdT+jL._SL1500_.jpg"
+    },
+    {
+        "p_id":97,
+        "p_name":"Dining Table",
+        "p_cost":24999,
+        "p_cat":"Furniture",
+        "p_desc":"Sheesham Wood Dining Table 6 Seater Set with Cushion Solid Wooden 6 Seater Dining Table 6 Chairs Teak Wood Dining Table Set Furniture for Dining Home Living Room FinishTeak",
+        "p_img":"https://m.media-amazon.com/images/I/61+L4C1ZGIL._SL1100_.jpg"
+    },
+    {
+        "p_id":98,
+        "p_name":"Wardrobe",
+        "p_cost":19998,
+        "p_cat":"Furniture",
+        "p_desc":"Wakefit Wardrobe | 1 Year Warranty | Cupboard, Wooden Almirah for Clothes, Wardrobe Wooden, Gingham 4 Door, Mirror, 1 Drawer & 1 Hanging Space, 18MM Panels, with Assembly (Columbian Walnut)",
+        "p_img":"https://m.media-amazon.com/images/I/61QQCZISxvL._SL1000_.jpg"
+    },
+    {
+        "p_id":99,
+        "p_name":"Queen Size Double Bed",
+        "p_cost":11698,
+        "p_cat":"Furniture",
+        "p_desc":"Wakefit Bed | 1 Year Warranty | Double Bed, Queen Size Bed, Taurus Engineered Wood Bed with Storage, Wooden Bed (Matte Finish_Brown)",
+        "p_img":"https://m.media-amazon.com/images/I/61HcqU1ZFFL._SL1000_.jpg"
+    },
+    {
+        "p_id":100,
+        "p_name":"Recliner",
+        "p_cost":34999,
+        "p_cat":"Furniture",
+        "p_desc":"The Sleep Company Luxe Motorised RRR Recliner |Patented SmartGRID Technology| Motorised Single Recliner Sofa with Revolving Mechanism | Rocking Sofa | Unique Lumbar Design | Premium Upholstery | Grey",
+        "p_img":"https://m.media-amazon.com/images/I/71Zj+kiJ4EL._SL1500_.jpg"
+    }
+]
